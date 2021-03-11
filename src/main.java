@@ -6,6 +6,6 @@ public class main {
         Chanchito chanchito = new Chanchito();
         chanchito.callChanchito();
         Suma suma = new Suma();
-        System.out.println(suma.sumar(3,2));
+        System.out.println("La suma de 2 y 3 es: " + suma.sumar(3,2));
     }
 }
